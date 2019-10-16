@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP lock it
 tags: example-tag
 level: 4
+type: code
 
 ---
 
