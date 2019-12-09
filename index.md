@@ -23,8 +23,6 @@ This is an example of a Project or Chapter Page.
 <td><p><span style="color:#ff0000"> Instructions are in RED text and should be removed from your document by deleting the text with the span tags. This document is intended to serve as an example of what is required of an OWASP project wiki page. The text in red serves as instructions, while the text in black serves as an example. Text in black is expected to be replaced entirely with information specific to your OWASP project. </span></p>
 <h2 id="project_about">Project About</h2>
 <h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> {{:Template:Project About</p></td>
-<p><span style="color:#ff0000"> {{:Template:Project About</p></td>
 <h2 id="owasp_code_project_template">OWASP Code Project Template</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This section should include an overview of what the project is, why the project was started, and what security issue is being addressed by the project deliverable. Some readers may be discouraged from looking further at the project if they do not understand the significance of the security concern that is being addressed, so provide enough context so the average reader will continue on with reading the description. You shouldn't assume the reader will understand the objective by providing security terminology, e.g. this project builds cryptographic algorithms, but should also endeavor to explain what they are used for.</code></p>
