@@ -19,7 +19,7 @@ auto-migrated: 1
 <tbody>
 <tr class="odd">
 <h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> {{:Template:Project About</p></td>
+<p><span style="color:#ff0000"> :Template:Project About</p></td>
 <td><p>leader_name1=Srirama Dheeraj }}</p>
 <h2 id="owasp_code_project_template">OWASP Code Project Template</h2>
 <h2 id="owasp_code_project_template">OWASP Code Project Template</h2>
