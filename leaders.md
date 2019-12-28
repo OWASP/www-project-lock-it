@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Srirama Dheeraj](mailto://)
+* [Srirama Dheeraj](mailto:)
